@@ -1,0 +1,17 @@
+{
+  "name": "online-store",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jeremiah <jaythinkshappiness@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jaythinkshappiness/node-doctor-lookup-api",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
