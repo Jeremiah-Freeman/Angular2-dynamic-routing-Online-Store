@@ -10,6 +10,7 @@ import { ContactComponent } from './contact/contact.component';
 import { MarketplaceComponent } from './marketplace/marketplace.component';
 import { AlbumComponent } from './album/album.component';
 import { routing } from './app.routing';
+import { AlbumDetailComponent } from './album-detail/album-detail.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { routing } from './app.routing';
     AboutComponent,
     ContactComponent,
     MarketplaceComponent,
-    AlbumComponent
+    AlbumComponent,
+    AlbumDetailComponent
   ],
   imports: [
     BrowserModule,
